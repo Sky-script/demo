@@ -1,4 +1,4 @@
 # demo
 this is a demo repo.
 <br>
-Auther - Shubham Ojha
+Auther - Shubham Ojha (Sky)
